@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsV7VtE3iGk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\lab-1-5-console-commands-littlerobotgames\\ConsoleMario\\ConsoleMario\\ConsoleMario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.9\\microsoft.win32.systemevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\system.drawing.common\\9.0.9\\system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
